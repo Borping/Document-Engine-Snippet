@@ -22,6 +22,9 @@ typing
 - As you can immediately tell, this project is missing a sizeable amount of dependencies, as it's part of a much larger proprietary project. It is meant for demonstration purposes only.
 
 ### Visuals
+- **Template Before Demo**
 ![Template Before Demo](https://i.imgur.com/qqPGs5M.png)
+- **Template After Demo**
 ![Template After Demo](https://i.imgur.com/KLiz436.png)
+- **Output Document Analysis**
 ![Output Document Analysis](https://i.imgur.com/Ayk98QM.png)
