@@ -22,6 +22,6 @@ typing
 - As you can immediately tell, this project is missing a sizeable amount of dependencies, as it's part of a much larger proprietary project. It is meant for demonstration purposes only.
 
 ### Visuals
-![Template Before Demo](https://imgur.com/a/RXw9wWi)
-![Template After Demo](https://imgur.com/a/ez-iep-template-after-Mlp6fnS)
-![Output Document Analysis](https://imgur.com/a/nsxeQQV)
+![Template Before Demo](https://i.imgur.com/qqPGs5M.png)
+![Template After Demo](https://i.imgur.com/KLiz436.png)
+![Output Document Analysis](https://i.imgur.com/Ayk98QM.png)
