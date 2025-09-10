@@ -4,7 +4,7 @@ A small demo of a document engine that programmatically edits a template documen
 ## Features  
 - **Document Automation**: Programmatically populates a template document with student data, log entries, and summaries into tables.
 - **Cloud Integration**: Secure uploading of generated documents to Google Drive with API authentication.
-- **Data Extraction and Analysis**: Demo component for parsing the generated document for accommodation usage to inform future decisions.
+- **Data Extraction and Analysis**: We have a demo component for parsing the generated document for accommodation usage to inform future decisions.
 - **File Management**: Uses a robust file naming convention including student name, date, subject, and current user.
 
 ## Prerequisites  
