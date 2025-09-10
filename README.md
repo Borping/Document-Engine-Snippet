@@ -7,7 +7,7 @@ A small demo of a document engine that programmatically edits a template documen
 - **Data Extraction and Analysis**: Demo component for parsing the generated document for accommodation usage to inform future decisions.
 - **File Management**: Uses a robust file naming convention including student name, date, subject, and current user.
 
-### Prerequisites  
+## Prerequisites  
 - Python 3.11.9+ 
 
 ## Requirements  
@@ -21,10 +21,15 @@ typing
 ```
 - As you can immediately tell, this project is missing a sizeable amount of dependencies, as it's part of a much larger proprietary project. It is meant for demonstration purposes only.
 
-### Visuals
+## Visuals
 - **Template Before Demo**
+- 
 ![Template Before Demo](https://i.imgur.com/qqPGs5M.png)
+
 - **Template After Demo**
+- 
 ![Template After Demo](https://i.imgur.com/KLiz436.png)
+
 - **Output Document Analysis**
+- 
 ![Output Document Analysis](https://i.imgur.com/Ayk98QM.png)
