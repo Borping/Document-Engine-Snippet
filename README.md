@@ -23,13 +23,13 @@ typing
 
 ## Visuals
 - **Template Before Demo**
-- 
+  
 ![Template Before Demo](https://i.imgur.com/qqPGs5M.png)
 
 - **Template After Demo**
-- 
+  
 ![Template After Demo](https://i.imgur.com/KLiz436.png)
 
 - **Output Document Analysis**
-- 
+  
 ![Output Document Analysis](https://i.imgur.com/Ayk98QM.png)
